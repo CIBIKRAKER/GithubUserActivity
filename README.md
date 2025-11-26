@@ -33,7 +33,7 @@ Run from the terminal:
 python main.py <github-username>
 ## Example:
 
-    python main.py octocat
+    python main.py CIBIKRAKER
 
 ## Output example:
 
@@ -42,3 +42,4 @@ Data fetched and saved to data.json
 - Opened a new issue in octocat/Hello-World
 - Starred octocat/Spoon-Knife
 - Closed pull request #5 in octocat/Hello-World
+
